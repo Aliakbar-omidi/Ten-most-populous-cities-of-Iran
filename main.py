@@ -34,5 +34,4 @@ m.drawmeridians(np.arange(40., 66., 2.), labels=[1, 1, 0, 1])
 plt.scatter(x, y, color="red", marker="o", s=scale)
 
 ax.set_title('Iran')
-plt.legend()
 plt.show()
