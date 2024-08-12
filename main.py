@@ -28,3 +28,4 @@ plt.scatter(x, y, color="green", label="Tehran", marker="o", s=scale)
 ax.set_title('Iran')
 plt.legend()
 plt.show()
+
